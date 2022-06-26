@@ -1,0 +1,21 @@
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\bin\Debug\TCP.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\bin\Debug\TCP.exe
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\bin\Debug\TCP.pdb
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\bin\Debug\SimpleTCP.dll
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\obj\Debug\TCP.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\obj\Debug\TCP.exe
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\obj\Debug\TCP.pdb
+c:\users\hp\documents\visual studio 2013\Projects\TCP\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\TCP\TCP\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\University\C# GUI\TCP\TCP\bin\Debug\TCP.exe.config
+E:\University\C# GUI\TCP\TCP\bin\Debug\TCP.exe
+E:\University\C# GUI\TCP\TCP\bin\Debug\TCP.pdb
+E:\University\C# GUI\TCP\TCP\bin\Debug\SimpleTCP.dll
+E:\University\C# GUI\TCP\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+E:\University\C# GUI\TCP\TCP\obj\Debug\TCP.Form1.resources
+E:\University\C# GUI\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+E:\University\C# GUI\TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+E:\University\C# GUI\TCP\TCP\obj\Debug\TCP.exe
+E:\University\C# GUI\TCP\TCP\obj\Debug\TCP.pdb

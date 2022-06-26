@@ -1,0 +1,21 @@
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\bin\Debug\Client.exe.config
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\bin\Debug\Client.exe
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\bin\Debug\Client.pdb
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\bin\Debug\SimpleTCP.dll
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\obj\Debug\Client.Form1.resources
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\obj\Debug\Client.exe
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\obj\Debug\Client.pdb
+c:\Users\hp\documents\visual studio 2013\Projects\TCP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\TCP\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\University\C# GUI\TCP\Client\bin\Debug\Client.exe.config
+E:\University\C# GUI\TCP\Client\bin\Debug\Client.exe
+E:\University\C# GUI\TCP\Client\bin\Debug\Client.pdb
+E:\University\C# GUI\TCP\Client\bin\Debug\SimpleTCP.dll
+E:\University\C# GUI\TCP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\University\C# GUI\TCP\Client\obj\Debug\Client.Form1.resources
+E:\University\C# GUI\TCP\Client\obj\Debug\Client.Properties.Resources.resources
+E:\University\C# GUI\TCP\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\University\C# GUI\TCP\Client\obj\Debug\Client.exe
+E:\University\C# GUI\TCP\Client\obj\Debug\Client.pdb
